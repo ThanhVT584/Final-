@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #f4f4f9;
+    color: #222222;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1a252f;
+    color: #ffffff;
+    padding: 20px;
+}
+
+nav {
+    background-color: #2c3e50;
+    padding: 10px;
+}
+
+/* Ép tất cả thẻ link trong menu hiển thị màu trắng tương phản cao */
+nav a, header a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover, header a:hover {
+    color: #ffe600; /* Màu vàng sáng nổi bật khi di chuột */
+    text-decoration: underline;
+}
+
+main {
+    background-color: #ffffff;
+    font-size: 1.1rem;
+    padding: 20px;
+    min-height: 400px;
+    color: #111111;
+}
+
+footer {
+    background-color: #1a252f;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+}
+
+li {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Georgia', Times, serif;
+    color: #1a252f;
+}
+
+p {
+    line-height: 1.6;
+    color: #222222;
+}body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #f4f4f9;
+    color: #222222;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1a252f;
+    color: #ffffff;
+    padding: 20px;
+}
+
+nav {
+    background-color: #2c3e50;
+    padding: 10px;
+}
+
+/* Ép tất cả thẻ link trong menu hiển thị màu trắng tương phản cao */
+nav a, header a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover, header a:hover {
+    color: #ffe600; /* Màu vàng sáng nổi bật khi di chuột */
+    text-decoration: underline;
+}
+
+main {
+    background-color: #ffffff;
+    font-size: 1.1rem;
+    padding: 20px;
+    min-height: 400px;
+    color: #111111;
+}
+
+footer {
+    background-color: #1a252f;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+}
+
+li {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Georgia', Times, serif;
+    color: #1a252f;
+}
+
+p {
+    line-height: 1.6;
+    color: #222222;
+}
